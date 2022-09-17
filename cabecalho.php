@@ -12,7 +12,9 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
-    <a class="navbar-brand" href="#">Layout do professor</a>
+    <a class="navbar-brand" href="#">
+    <img src="https://s2.glbimg.com/gE9iSsWkgZ6HRPlz8w0e2LrbmX4=/0x0:695x666/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/H/a/f0RF3NQ7eZqL8eiTUmZg/2013-02-26-firefox-logo-full.png" alt="Bootstrap" width="30" height="24">
+    </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -41,5 +43,5 @@
     </div>
   </div>
 </nav>
-
+<?php echo $migalhaPao; ?>
 <div class="container">
